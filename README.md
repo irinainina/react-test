@@ -2,7 +2,7 @@
 
 Mark will be the same for all team members based on the result of presentation.
 
-Maximum points - **240**
+Maximum points - **240**/**240**
 
 ### Min scope - **40**
 - [x] **10** Main page + page with a list of authors + author's page (only html);
@@ -20,8 +20,8 @@ Maximum points - **240**
 
 ### Extra scope - **70**
 - [x] **10** Confidence of the project presentation;
-- [ ] **30** Project is made using gatsbyjs;
-- [ ] **20** contentful / netlify cms is used for content management
+- [x] **30** Project is made using gatsbyjs;
+- [x] **20** contentful / netlify cms is used for content management
 - [x] **10** Portal has third language;
 
 ### Fines
